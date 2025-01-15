@@ -1,0 +1,9 @@
+{
+  "version": "2.0",
+  "extensions": {
+    "http": {
+      "maxConcurrentRequests": 100,
+      "maxOutstandingRequests": 200
+    }
+  }
+}
